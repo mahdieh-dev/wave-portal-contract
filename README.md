@@ -1,6 +1,6 @@
 # WavePortal contract
 
-This project is a complete blockchain project inspired by BuildSpace community.
+This project is a complete blockchain project inspired by [BuildSpace community](https://buildspace.so/).
 The contract is deployed on Goerli testnet. 
 The UI is hosted by Replit. To test this project, go to [the WavePortal website](https://waveportal-starter-project.mshavandi.repl.co/).
 Make sure to have enough Goerli ETHs or get some from [this faucet](https://goerlifaucet.com/).
