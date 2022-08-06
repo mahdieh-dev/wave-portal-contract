@@ -5,6 +5,8 @@ The contract is deployed on Goerli testnet.
 The UI is hosted by Replit. To test this project, go to [the WavePortal website](https://waveportal-starter-project.mshavandi.repl.co/).
 Make sure to have enough Goerli ETHs or get some from [this faucet](https://goerlifaucet.com/).
 
+## How to run
+
 - To test the contract locally, run:
 
 ```shell
