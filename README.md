@@ -1,15 +1,18 @@
-# Basic Sample Hardhat Project
+# WavePortal contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is a complete blockchain project inspired by BuildSpace community.
+The contract is deployed on Goerli testnet. 
+The UI is hosted by Replit. To test this project, go to [the WavePortal website](https://waveportal-starter-project.mshavandi.repl.co/).
+Make sure to have enough Goerli ETHs or get some from [this faucet](https://goerlifaucet.com/).
 
-Try running some of the following tasks:
+- To test the contract locally, run:
 
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
+npx hardhat run scripts/run.js
+```
+
+- To deploy the contract on Goerli testnet, run:
+
+```shell
+npx hardhat run scripts/deploy.js --network goerli
 ```
